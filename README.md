@@ -10,6 +10,12 @@
 [![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/)
 
 ---
+👩‍💻 Author
+Abeera Ejaz
+
+GitHub: @AbeeraEjaz
+
+Project Link: https://github.com/AbeeraEjaz/aero-weather
 
 ## 📸 Live Demo
 
@@ -86,20 +92,6 @@ npm install
 # Start development server
 npm run dev
 
-👩‍💻 Author
-Abeera Ejaz
 
-GitHub: @AbeeraEjaz
-
-Project Link: https://github.com/AbeeraEjaz/aero-weather
-
-🙏 Acknowledgments
-OpenWeatherMap for Weather API
-
-Firebase for Authentication
-
-Vercel for Hosting
-
-React Icons for Icons
 
 
